@@ -1,0 +1,1 @@
+window.TOY_ROTATION_CONFIG = { appVersion:"v0.13.0", buildName:"QA PREVIEW / NOT FINAL", buildDate:"20261015", buildId:"v0.13.0-owner-data-preview-qa1-20261015", RELEASE:"v0.13.0 — QA PREVIEW / NOT FINAL", API_BASE:"", PERSISTENCE_DIAGNOSTIC_MODE:false };
